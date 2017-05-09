@@ -18,8 +18,31 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>07a722c9e2c9200c5fb6d9e0070b9e8206e431ca</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict>
+					<key>consumerKey</key>
+					<string>zzggHUnpCWLb3FPdg0EHSVKI1</string>
+					<key>consumerSecret</key>
+					<string>NV9QF9xhKvpAPcn0lrf7k3GPzKvIrwh2l2mZNslE1z7ejsyddj</string>
+				</dict>
+				<key>KitName</key>
+				<string>Twitter</string>
+			</dict>
+		</array>
+	</dict>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Would you like to let this device always know your location?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Would you like to let this device know your current location?</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
